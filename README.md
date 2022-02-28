@@ -1,7 +1,4 @@
-## Hi there 👋
-
-  <img src="https://komarev.com/ghpvc/?username=miya292&color=orange">
-  <img src="https://img.shields.io/github/followers/miya292?label=Followers&style=flat-square&logo=github">
+## Hi there 👋 <img src="https://komarev.com/ghpvc/?username=miya292&color=orange"> <img src="https://img.shields.io/github/followers/miya292?label=Followers&style=flat-square&logo=github">
 
 <!--
 **miya292/miya292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
